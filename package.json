@@ -1,0 +1,30 @@
+{
+  "name": "caleo-creativos",
+  "version": "1.0.0",
+  "description": "Sitio web profesional de Caleo Creativos - Agencia creativa de diseño en Ibagué, Colombia",
+  "main": "index.html",
+  "author": {
+    "name": "Caleo Creativos",
+    "email": "contacto@caleocreativoss.com",
+    "url": "https://caleocreativoss.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "diseño",
+    "agencia",
+    "branding",
+    "web",
+    "creativos",
+    "ibagué",
+    "tolima",
+    "colombia"
+  ],
+  "homepage": "https://github.com/usuario/caleo-creativos#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/caleo-creativos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usuario/caleo-creativos/issues"
+  }
+}
